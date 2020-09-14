@@ -1,6 +1,6 @@
 	
 {
-  "proyectos": "10",
+  "proyectos": "11",
   "proyecto": [
     {
       "nombre": "Pyrk1",
@@ -94,6 +94,15 @@
     },
     {
       "nombre": "Pyrk10",
+      "simbolo": "PYRK",
+      "url": "pyrk.org",
+      "github": "pyrkcommunity/pyrk",
+      "carpetaDefault": ".pyrk",
+      "archivoConfiguracion": "pyrk.conf",
+      "carpetaInstalacion": "pyrk",
+      "archivoControl": "pyrk_mn.txt"
+    },
+      "nombre": "Pyrk11",
       "simbolo": "PYRK",
       "url": "pyrk.org",
       "github": "pyrkcommunity/pyrk",

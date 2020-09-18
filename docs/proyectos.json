@@ -10,7 +10,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk2",
@@ -20,7 +20,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk3",
@@ -30,7 +30,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk4",
@@ -40,7 +40,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk5",
@@ -50,7 +50,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk6",
@@ -60,7 +60,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk7",
@@ -70,7 +70,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk8",
@@ -80,7 +80,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk9",
@@ -90,7 +90,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk10",
@@ -100,7 +100,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     },
     {
       "nombre": "Pyrk11",
@@ -110,7 +110,7 @@
       "carpetaDefault": ".pyrk",
       "archivoConfiguracion": "pyrk.conf",
       "carpetaInstalacion": "pyrk",
-      "archivoControl": "pyrk_mn.txt"
+      "archivoControl": ".pyrk_mn.json"
     }
   ]
 }

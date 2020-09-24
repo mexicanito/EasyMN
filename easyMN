@@ -1,0 +1,9 @@
+#!/bin/bash
+# Para deshabilitar las teclas Control + C para salir
+trap '' 2
+# Versión de EasyMN
+easymn_version="1.0"
+# Github de EasyMN
+easymn_github="https://github.com/mexicanito/easymn"
+# Nombre de Usuario
+easymn_usuario=$(whoami)
